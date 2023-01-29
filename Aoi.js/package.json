@@ -1,0 +1,16 @@
+{
+  "name": "aoi.js-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "frenzy#3067",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^5.5.5",
+    "dotenv": "^16.0.3"
+  }
+}
